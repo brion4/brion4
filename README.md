@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Bharath S, currently studying Computer Science and Business Systems. I am a aspiring programmer and love writing clean and maintainable code. 
+I am Bharath S, currently studying Computer Science and Business Systems in Rajagiri School of Engineering and Technology, Kochi . I am an aspiring programmer and love writing clean and maintainable code. 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/bharath-s-094189201/)
@@ -39,8 +39,8 @@ I am Bharath S, currently studying Computer Science and Business Systems. I am a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=brion4&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brion4&hide=TeX&layout=compact)
+![Github Stats](https://vercel-brion4.vercel.app/api?username=brion4&count_private=true&show_icons=true&include_all_commits=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brion4&hide=TeX&layout=donut&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=brion4&style=for-the-badge&label=PROFILE+VIEWS&color=blue)
 
